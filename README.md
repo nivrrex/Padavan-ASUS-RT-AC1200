@@ -1,5 +1,5 @@
 # Padavan ASUS-RT-AC1200
-Padavan for ASUS RT AC1200
+Padavan for ASUS RT-AC1200
 
 # 说明
 使用 https://github.com/hanwckf/rt-n56u 的源码进行编译
